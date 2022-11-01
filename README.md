@@ -5,12 +5,12 @@ Perform Principal component analysis and perform clustering using first
 optimum number of clusters and check whether we have obtained same number of clusters with the original data 
 (class column we have ignored at the begining who shows it has 3 clusters)df
 
-# PCA Implementation
+## PCA Implementation
 
 Checking with other Clustering Algorithms
 
-## Hierarchical Clustering
+#### Hierarchical Clustering
 
-## K-Means Clustering
+#### K-Means Clustering
 
-Build Cluster algorithm using K=3
+#### Build Cluster algorithm using K=3
